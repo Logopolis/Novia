@@ -1,0 +1,122 @@
+[
+    {
+      "id": "6d32add3-b5b7-4200-9f15-8136088ee72b",
+      "active": false,
+      "currentUnitPrice": 285.185224,
+      "fundManager": "Comtract",
+      "name": "Comtext 7755",
+      "marketCode": "EA"
+    },
+    {
+      "id": "79379da5-58f6-4a68-a87e-8084a6a85088",
+      "active": true,
+      "currentUnitPrice": 63.247675,
+      "fundManager": "Isotrack",
+      "name": "Pivitol 9034",
+      "marketCode": "OCCAECAT"
+    },
+    {
+      "id": "7cb18fbb-a436-4845-b518-722305765275",
+      "active": false,
+      "currentUnitPrice": 12.762005,
+      "fundManager": "Furnigeer",
+      "name": "Hatology 3602",
+      "marketCode": "LABORUM"
+    },
+    {
+      "id": "b0e15392-bc62-4fdb-8fe8-a4a0c45a9752",
+      "active": false,
+      "currentUnitPrice": 208.42317,
+      "fundManager": "Sportan",
+      "name": "Orbaxter 4022",
+      "marketCode": "ANIM"
+    },
+    {
+      "id": "c4f88d88-c910-4626-b232-337d687f17c7",
+      "active": true,
+      "currentUnitPrice": 36.082534,
+      "fundManager": "Gink",
+      "name": "Combogene 4235",
+      "marketCode": "VELIT"
+    },
+    {
+      "id": "813fffb2-e153-4255-aa9d-2a0d9cb46fb3",
+      "active": false,
+      "currentUnitPrice": 134.258328,
+      "fundManager": "Medcom",
+      "name": "Corecom 9122",
+      "marketCode": "MAGNA"
+    },
+    {
+      "id": "0f84344b-b765-49ce-9775-2185c717e1d2",
+      "active": true,
+      "currentUnitPrice": 179.73267,
+      "fundManager": "Zillanet",
+      "name": "Bicol 1274",
+      "marketCode": "DUIS"
+    },
+    {
+      "id": "e9045af3-c3a5-4c5d-8bba-53938747bbde",
+      "active": true,
+      "currentUnitPrice": 89.808947,
+      "fundManager": "Isoplex",
+      "name": "Fishland 8294",
+      "marketCode": "AD"
+    },
+    {
+      "id": "aa5bf1c0-3563-45d6-9312-424ac411287b",
+      "active": true,
+      "currentUnitPrice": 165.892038,
+      "fundManager": "Billmed",
+      "name": "Pawnagra 9747",
+      "marketCode": "LOREM"
+    },
+    {
+      "id": "c30c2467-55cb-429b-b44c-7af6ba8327d6",
+      "active": false,
+      "currentUnitPrice": 302.431695,
+      "fundManager": "Injoy",
+      "name": "Enerforce 2255",
+      "marketCode": "EA"
+    },
+    {
+      "id": "1d361da3-f625-4c84-ae7a-1ab93f6c5eff",
+      "active": true,
+      "currentUnitPrice": 385.970394,
+      "fundManager": "Tripsch",
+      "name": "Skybold 4417",
+      "marketCode": "EXERCITATION"
+    },
+    {
+      "id": "8d38fa51-3c9c-41ec-9ee9-61abc961f289",
+      "active": false,
+      "currentUnitPrice": 320.473078,
+      "fundManager": "Pushcart",
+      "name": "Flyboyz 3667",
+      "marketCode": "VELIT"
+    },
+    {
+      "id": "80b37311-e0fb-482b-9c01-bda68ec7eab3",
+      "active": false,
+      "currentUnitPrice": 300.294978,
+      "fundManager": "Aquamate",
+      "name": "Uniworld 1956",
+      "marketCode": "VENIAM"
+    },
+    {
+      "id": "d404e1e2-b1c9-42a5-bebc-2178766b0c71",
+      "active": false,
+      "currentUnitPrice": 199.795123,
+      "fundManager": "Magnafone",
+      "name": "Exostream 2095",
+      "marketCode": "DESERUNT"
+    },
+    {
+      "id": "7f62a638-9c7a-4445-869d-ddd35d1ce40c",
+      "active": true,
+      "currentUnitPrice": 270.8243,
+      "fundManager": "Zolarex",
+      "name": "Quizka 9890",
+      "marketCode": "SUNT"
+    }
+  ]
